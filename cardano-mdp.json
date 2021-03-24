@@ -244,6 +244,11 @@
                "pool_id": "0409605581b12bb96d1f5c90570a481a7a828f331ea9e2b5e82311a9",
                "member_since": "2021-03-24",
                "name": "[WLP] Wildlife Pool"
+            },
+            "44": {    
+               "pool_id": "c8db17906201ab3665930723836d0ca4efa1e7bca13066f3edcf980d",
+               "member_since": "2021-02-14",
+               "name": "[CARMA] Carma Pool"
             }
     }
 }}
